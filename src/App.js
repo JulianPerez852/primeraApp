@@ -5,9 +5,9 @@ import './App.css';
 function App() {
   return (
     <div>
-      <hi1>
+      <h1>
         Mi primera aplicación
-      </hi1>
+      </h1>
       <p>
         Esta es mi primera aplicación en React, está padrísimo!
       </p>
